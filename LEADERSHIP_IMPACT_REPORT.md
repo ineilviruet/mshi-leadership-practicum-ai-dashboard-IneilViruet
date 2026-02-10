@@ -6,13 +6,11 @@ This leadership practicum project was completed as part of a Health Informatics 
 
 The purpose of this analysis was to provide leadership with a concise, data-informed snapshot of workflow patterns that may impact efficiency, patient engagement, and service delivery. As a practicum student, my role was to apply informatics tools and leadership concepts to interpret operational data and propose realistic improvement strategies.
 
----
 
-## Leadership Question
+# Leadership Question
 
 What operational patterns in appointment attendance, wait times, and communication channels indicate opportunities for leadership intervention to better improve workflow efficiency and patient engagement?
 
----
 
 ## Data and Methods
 
