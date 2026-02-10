@@ -1,0 +1,141 @@
+date,department,appointment_status,wait_time_minutes,service_duration_minutes,communication_channel,satisfaction_score
+10/01/25,Primary Care,Attended,18,30,Portal,4
+10/01/25,Behavioral Health,Attended,25,50,Phone,3
+10/02/25,Diabetes Clinic,No-Show,0,0,Outreach Call,2
+10/02/25,Telehealth,Attended,8,20,Portal,5
+10/03/25,Primary Care,Attended,20,35,In-Person,4
+10/03/25,Behavioral Health,No-Show,0,0,Phone,1
+10/04/25,Diabetes Clinic,Attended,22,40,Email,4
+10/04/25,Telehealth,Attended,10,18,Portal,5
+10/05/25,Primary Care,No-Show,0,0,Outreach Call,2
+10/05/25,Telehealth,Attended,12,25,In-Person,4
+10/01/25,Primary Care,Attended,18,30,Portal,4
+10/01/25,Behavioral Health,Attended,25,50,Phone,3
+10/02/25,Diabetes Clinic,No-Show,0,0,Outreach Call,2
+10/02/25,Telehealth,Attended,8,20,Portal,5
+10/03/25,Primary Care,Attended,20,35,In-Person,4
+10/03/25,Behavioral Health,No-Show,0,0,Phone,1
+10/04/25,Diabetes Clinic,Attended,22,40,Email,4
+10/04/25,Telehealth,Attended,10,18,Portal,5
+10/05/25,Primary Care,No-Show,0,0,Outreach Call,2
+10/05/25,Telehealth,Attended,12,25,In-Person,4
+10/01/25,Primary Care,Attended,18,30,Portal,4
+10/01/25,Behavioral Health,Attended,25,50,Phone,3
+10/02/25,Diabetes Clinic,No-Show,0,0,Outreach Call,2
+10/02/25,Telehealth,Attended,8,20,Portal,5
+10/03/25,Primary Care,Attended,20,35,In-Person,4
+10/03/25,Behavioral Health,No-Show,0,0,Phone,1
+10/04/25,Diabetes Clinic,Attended,22,40,Email,4
+10/04/25,Telehealth,Attended,10,18,Portal,5
+10/05/25,Primary Care,No-Show,0,0,Outreach Call,2
+10/05/25,Telehealth,Attended,12,25,In-Person,4
+10/01/25,Primary Care,Attended,18,30,Portal,4
+10/01/25,Behavioral Health,Attended,25,50,Phone,3
+10/02/25,Diabetes Clinic,No-Show,0,0,Outreach Call,2
+10/02/25,Telehealth,Attended,8,20,Portal,5
+10/03/25,Primary Care,Attended,20,35,In-Person,4
+10/03/25,Behavioral Health,No-Show,0,0,Phone,1
+10/04/25,Diabetes Clinic,Attended,22,40,Email,4
+10/04/25,Telehealth,Attended,10,18,Portal,5
+10/05/25,Primary Care,No-Show,0,0,Outreach Call,2
+10/05/25,Telehealth,Attended,12,25,In-Person,4
+10/01/25,Primary Care,Attended,18,30,Portal,4
+10/01/25,Behavioral Health,Attended,25,50,Phone,3
+10/02/25,Diabetes Clinic,No-Show,0,0,Outreach Call,2
+10/02/25,Telehealth,Attended,8,20,Portal,5
+10/03/25,Primary Care,Attended,20,35,In-Person,4
+10/03/25,Behavioral Health,No-Show,0,0,Phone,1
+10/04/25,Diabetes Clinic,Attended,22,40,Email,4
+10/04/25,Telehealth,Attended,10,18,Portal,5
+10/05/25,Primary Care,No-Show,0,0,Outreach Call,2
+10/05/25,Telehealth,Attended,12,25,In-Person,4
+10/01/25,Primary Care,Attended,18,30,Portal,4
+10/01/25,Behavioral Health,Attended,25,50,Phone,3
+10/02/25,Diabetes Clinic,No-Show,0,0,Outreach Call,2
+10/02/25,Telehealth,Attended,8,20,Portal,5
+10/03/25,Primary Care,Attended,20,35,In-Person,4
+10/03/25,Behavioral Health,No-Show,0,0,Phone,1
+10/04/25,Diabetes Clinic,Attended,22,40,Email,4
+10/04/25,Telehealth,Attended,10,18,Portal,5
+10/05/25,Primary Care,No-Show,0,0,Outreach Call,2
+10/05/25,Telehealth,Attended,12,25,In-Person,4
+10/01/25,Primary Care,Attended,18,30,Portal,4
+10/01/25,Behavioral Health,Attended,25,50,Phone,3
+10/02/25,Diabetes Clinic,No-Show,0,0,Outreach Call,2
+10/02/25,Telehealth,Attended,8,20,Portal,5
+10/03/25,Primary Care,Attended,20,35,In-Person,4
+10/03/25,Behavioral Health,No-Show,0,0,Phone,1
+10/04/25,Diabetes Clinic,Attended,22,40,Email,4
+10/04/25,Telehealth,Attended,10,18,Portal,5
+10/05/25,Primary Care,No-Show,0,0,Outreach Call,2
+10/05/25,Telehealth,Attended,12,25,In-Person,4
+10/01/25,Primary Care,Attended,18,30,Portal,4
+10/01/25,Behavioral Health,Attended,25,50,Phone,3
+10/02/25,Diabetes Clinic,No-Show,0,0,Outreach Call,2
+10/02/25,Telehealth,Attended,8,20,Portal,5
+10/03/25,Primary Care,Attended,20,35,In-Person,4
+10/03/25,Behavioral Health,No-Show,0,0,Phone,1
+10/04/25,Diabetes Clinic,Attended,22,40,Email,4
+10/04/25,Telehealth,Attended,10,18,Portal,5
+10/05/25,Primary Care,No-Show,0,0,Outreach Call,2
+10/05/25,Telehealth,Attended,12,25,In-Person,4
+10/01/25,Primary Care,Attended,18,30,Portal,4
+10/01/25,Behavioral Health,Attended,25,50,Phone,3
+10/02/25,Diabetes Clinic,No-Show,0,0,Outreach Call,2
+10/02/25,Telehealth,Attended,8,20,Portal,5
+10/03/25,Primary Care,Attended,20,35,In-Person,4
+10/03/25,Behavioral Health,No-Show,0,0,Phone,1
+10/04/25,Diabetes Clinic,Attended,22,40,Email,4
+10/04/25,Telehealth,Attended,10,18,Portal,5
+10/05/25,Primary Care,No-Show,0,0,Outreach Call,2
+10/05/25,Telehealth,Attended,12,25,In-Person,4
+10/01/25,Primary Care,Attended,18,30,Portal,4
+10/01/25,Behavioral Health,Attended,25,50,Phone,3
+10/02/25,Diabetes Clinic,No-Show,0,0,Outreach Call,2
+10/02/25,Telehealth,Attended,8,20,Portal,5
+10/03/25,Primary Care,Attended,20,35,In-Person,4
+10/03/25,Behavioral Health,No-Show,0,0,Phone,1
+10/04/25,Diabetes Clinic,Attended,22,40,Email,4
+10/04/25,Telehealth,Attended,10,18,Portal,5
+10/05/25,Primary Care,No-Show,0,0,Outreach Call,2
+10/05/25,Telehealth,Attended,12,25,In-Person,4
+10/01/25,Primary Care,Attended,18,30,Portal,4
+10/01/25,Behavioral Health,Attended,25,50,Phone,3
+10/02/25,Diabetes Clinic,No-Show,0,0,Outreach Call,2
+10/02/25,Telehealth,Attended,8,20,Portal,5
+10/03/25,Primary Care,Attended,20,35,In-Person,4
+10/03/25,Behavioral Health,No-Show,0,0,Phone,1
+10/04/25,Diabetes Clinic,Attended,22,40,Email,4
+10/04/25,Telehealth,Attended,10,18,Portal,5
+10/05/25,Primary Care,No-Show,0,0,Outreach Call,2
+10/05/25,Telehealth,Attended,12,25,In-Person,4
+10/01/25,Primary Care,Attended,18,30,Portal,4
+10/01/25,Behavioral Health,Attended,25,50,Phone,3
+10/02/25,Diabetes Clinic,No-Show,0,0,Outreach Call,2
+10/02/25,Telehealth,Attended,8,20,Portal,5
+10/03/25,Primary Care,Attended,20,35,In-Person,4
+10/03/25,Behavioral Health,No-Show,0,0,Phone,1
+10/04/25,Diabetes Clinic,Attended,22,40,Email,4
+10/04/25,Telehealth,Attended,10,18,Portal,5
+10/05/25,Primary Care,No-Show,0,0,Outreach Call,2
+10/05/25,Telehealth,Attended,12,25,In-Person,4
+10/01/25,Primary Care,Attended,18,30,Portal,4
+10/01/25,Behavioral Health,Attended,25,50,Phone,3
+10/02/25,Diabetes Clinic,No-Show,0,0,Outreach Call,2
+10/02/25,Telehealth,Attended,8,20,Portal,5
+10/03/25,Primary Care,Attended,20,35,In-Person,4
+10/03/25,Behavioral Health,No-Show,0,0,Phone,1
+10/04/25,Diabetes Clinic,Attended,22,40,Email,4
+10/04/25,Telehealth,Attended,10,18,Portal,5
+10/05/25,Primary Care,No-Show,0,0,Outreach Call,2
+10/05/25,Telehealth,Attended,12,25,In-Person,4
+10/01/25,Primary Care,Attended,18,30,Portal,4
+10/01/25,Behavioral Health,Attended,25,50,Phone,3
+10/02/25,Diabetes Clinic,No-Show,0,0,Outreach Call,2
+10/02/25,Telehealth,Attended,8,20,Portal,5
+10/03/25,Primary Care,Attended,20,35,In-Person,4
+10/03/25,Behavioral Health,No-Show,0,0,Phone,1
+10/04/25,Diabetes Clinic,Attended,22,40,Email,4
+10/04/25,Telehealth,Attended,10,18,Portal,5
+10/05/25,Primary Care,No-Show,0,0,Outreach Call,2
+10/05/25,Telehealth,Attended,12,25,In-Person,4
